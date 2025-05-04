@@ -9,5 +9,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfroff/chatME-demo.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zfroff/chatME-demo/issues"
+  },
+  "homepage": "https://github.com/zfroff/chatME-demo#readme"
 }

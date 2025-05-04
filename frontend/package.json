@@ -13,6 +13,7 @@
     "@headlessui/react": "^2.2.2",
     "@heroicons/react": "^2.2.0",
     "axios": "^1.7.7",
+    "chat-app": "file:..",
     "clsx": "^2.1.1",
     "framer-motion": "^12.9.2",
     "lucide-react": "^0.459.0",
